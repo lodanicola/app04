@@ -1,0 +1,14 @@
+<widget id="com.example.film" version="0.0.1">
+	<name>Top Films</name>
+	<description>
+		I migliori film degli ultimi anni.
+	</description>
+	<author email="nicholas1976@hotmail.it" href="http://www.ratataplan.it">
+		Nicholas Team
+	</author>
+	<content src="index.html" />
+	<access origin="*" />
+	<icon src="res/ico72.png" width="72" height="72" />
+	<icon src="res/ico48.png" width="48" height="48" />
+	<icon src="res/ico36.png" width="36" height="36" />
+</widget>
